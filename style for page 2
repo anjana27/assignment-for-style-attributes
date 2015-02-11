@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> second page </title>
+</head>
+<body bgcolor="teal"> 
+<div style = "background:black">
+<p style = "color:blue ; text-align:center"> ME - PG GRADUATE  </p>
+<div style = "background:">
+<p > .  </p>
+<div style = "background:teal">
+<p>.
+</p>
+<div style ="background :teal">
+<p>
+.
+</p>
+<div style = "background :olive">
+<p>
+.
+</p>
+<div style = "background :navy">
+<h1>
+*
+</h1>
+<div style = "background :fuchise">
+<h2>
+*
+</h2>
+<div style = "background :black">
+<a style = "color:white ; text-align:left" href:"style2.html"> NEXT </a>
+</body>
+</html>
