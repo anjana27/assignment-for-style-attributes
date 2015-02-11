@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> fourth page </title>
+</head>
+<body bgcolor="teal"> 
+<div style = "background:black">
+<p style = "color:red ; text-align:center"> Saravampatti </p>
+<div style = "background:">
+<p > .  </p>
+<div style = "background:teal">
+<p>.
+</p>
+<div style ="background :teal">
+<p>
+.
+</p>
+<div style = "background :olive">
+<p>
+.
+</p>
+<div style = "background :navy">
+<h1>
+*
+</h1>
+<div style = "background :fuchise">
+<h2>
+*
+</h2>
+<div style = "background :black">
+<a href ="style3.html"> PREVIOUS </a>
+</body>
+</html>
